@@ -84,7 +84,7 @@ GenerateClassCluster=0
 DocumentUniqueId=IEKVTBAZ
 
 [Document3]
-DocumentPath=H01R0.PcbDoc
+DocumentPath=H1FR7x.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133,6 +133,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GNKJVAVI
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for H01R0\Design Rule Check - H01R0.html
+DItemRevisionGUID=
 
 [Parameter1]
 Name=Module_Description
